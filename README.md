@@ -1,3 +1,5 @@
+![Banner](https://github.com/debabratapruseth/AI-Powered-Market-Risk-Control-Cockpit/blob/main/Market%20Cokpit.png)
+
 # AI-Powered Market Risk Control Cockpit
 
 > Detect bad market data • Prioritise business impact • Generate AI investigation reports
